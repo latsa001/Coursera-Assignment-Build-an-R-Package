@@ -1,0 +1,15 @@
+Package: FinalCourseraPackageAssignment
+Title: Week 4 Final Assignment - Build a Package
+Version: 0.1.0
+Author: Sam Latz <samlatz123@gmail.com>
+Maintainer: Sam Latz <samlatz123@gmail.com>
+Description: This package presents easy to use functions for the far_data.
+Depends: R (>= 3.5.2)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
